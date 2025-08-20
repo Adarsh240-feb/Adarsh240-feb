@@ -19,15 +19,16 @@ GDG/TFUG Prayagraj.
 
 ---
 
-<p align="left">
-  <a href="https://www.instagram.com/just_adarshhh/?hl=en" target="_blank">
-    <img src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/400.png" alt="Instagram" width="40" height="40"/>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <!-- Instagram -->
+  <a href="https://instagram.com/just_adarshhh" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adarsh-kesharwani-bba666315/" target="_blank">
-    <img src="https://static.licdn.com/scds/common/u/images/logos/linkedin/logo_in_90x90.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn" />
   </a>
-</p>
 
 ### 🛠️ My Tech Toolbox
 
