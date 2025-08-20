@@ -20,14 +20,13 @@ GDG/TFUG Prayagraj.
 ---
 
 <div style="display: flex; gap: 15px; align-items: center;">
-  <!-- Instagram -->
-  <a href="https://instagram.com/just_adarshhh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
-  </a>
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adarsh-kesharwani-bba666315/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn" />
+  </a>
+    <!-- Instagram -->
+  <a href="https://instagram.com/just_adarshhh" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
   </a>
 
 ### 🛠️ My Tech Toolbox
