@@ -23,11 +23,10 @@ GDG/TFUG Prayagraj.
   <a href="https://www.instagram.com/just_adarshhh/?hl=en" target="_blank">
     <img src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/400.png" alt="Instagram" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adarsh-kesharwani-bba666315/" target="_blank">
     <img src="https://static.licdn.com/scds/common/u/images/logos/linkedin/logo_in_90x90.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;
 </p>
 
 ### 🛠️ My Tech Toolbox
