@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Adarsh240-feb/Adarsh240-feb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hello World , I am Adarsh Kesharwani a Web Developer is here on Github to build some good real-world projects and contribute in some Good Projects here.
 
-Here are some ideas to get you started:
+👨‍💻 Name: Adarsh Kesharwani 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Hackathon's: #2X Finalist — Top 7 (Sharda), Top 10 (United
+University).
+
+🧑‍💼 Tech Community : Core Team @ WikiClubTech-UIT, Volunteer @ 
+GDG/TFUG Prayagraj.
+
+🌱 Open Source Contributor: MediaWiki
+
+📖 Current Status: I'm currently focusing on Full Stack Development.
+
+## 🛠 Skills
+HTML , CSS , BOOTSTRAP , REACTJS , NODE JS , EXPRESS JS......Stilll Learning More ! 
