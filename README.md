@@ -44,12 +44,9 @@ GDG/TFUG Prayagraj.
 
 | 💡 Project | ⚙️ Stack | ✨ Highlights | 🔗 Demo |
 | :--- | :--- | :--- | :--- |
-| <a href="https://github.com/adarsh-kesharwani/project-link" target="_blank" > 🔵 Instant-Care </a> | APIs, Gemini, React, Node, Maps | Emergency alert, chatbot, ayurvedic health guide | <a href="https://your-live-demo-link.com" target="_blank"> Live ✅ </a> |
-| <a href="https://github.com/adarsh-kesharwani/project-link" target="_blank" > 🔵 Locofy </a> | Next.js, Express, MongoDB | Face-ticket matching, real-time GPS sync | <a href="https://your-live-demo-link.com" target="_blank"> Live ✅ </a> |
-| <a href="https://github.com/adarsh-kesharwani/project-link" target="_blank" > ➖ Bio-Pay </a> | Next.js, IoT, Node.js | Biometric + AI based UPI replacement | <a href="https://your-live-demo-link.com" target="_blank"> Live ✅ </a> |
-| <a href="https://github.com/adarsh-kesharwani/project-link" target="_blank" > 🔵 Restoran </a> | Next.js, Flask, MongoDB | UI, Taste, Booking | <a href="https://your-live-demo-link.com" target="_blank"> Live ✅ </a> |
-| <a href="https://github.com/adarsh-kesharwani/project-link" target="_blank" > 🔵 Safe-Her </a> | Next.js, Python, Maps, Mongo | Women safety, voice SOS, live tracking | <a href="https://your-live-demo-link.com" target="_blank"> Live ✅ </a> |
-| <a href="https://github.com/adarsh-kesharwani/project-link" target="_blank" > 🌸 Cursed-Code </a> | React, Game APIs | CTF & Hackathon Website for BizByte, MAIT | <a href="https://your-live-demo-link.com" target="_blank"> Live ✅ </a> |
+| <a href="https://github.com/Adarsh240-feb/JalSaafTech" target="_blank" > 🔵 JalSaafTech </a> |  Html , CSS , JavaScript, Maps | Water Cleaniness Detection Device ,  Map Feature  | <a href="jalsaaftech.netlify.app" target="_self"> Live  </a> |
+| <a href="https://github.com/Adarsh240-feb/Food" target="_blank" > 🔵 FlavourFlow </a> | React.js (Soon With Backend) | Fast Food Delivery , Highlight Protein in Food | <a href="https://adarsh240-feb.github.io/Food/" target="_self"> Live  </a> |
+
 
 
 <br>
