@@ -14,8 +14,6 @@ GDG/TFUG Prayagraj.
 
 📖 Current Status: I'm currently focusing on Full Stack Development.
 
-## 🛠 Skills
-HTML , CSS , BOOTSTRAP , REACTJS , NODE JS , EXPRESS JS......Stilll Learning More ! 
 
 ### 🌐 Let's Connect!
 
@@ -30,13 +28,6 @@ HTML , CSS , BOOTSTRAP , REACTJS , NODE JS , EXPRESS JS......Stilll Learning Mor
     <img src="https://i.imgur.com/your-linkedin-icon.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://x.com/your-username" target="_blank">
-    <img src="https://i.imgur.com/your-x-icon.png" alt="X" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://i.imgur.com/your-github-icon.png" alt="GitHub" width="40" height="40"/>
-  </a>
 </p>
 
 ### 🛠️ My Tech Toolbox
@@ -44,7 +35,7 @@ HTML , CSS , BOOTSTRAP , REACTJS , NODE JS , EXPRESS JS......Stilll Learning Mor
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,nextjs,flask,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,firebase" />
 </p>
 
 ### 🚀 Featured Projects
