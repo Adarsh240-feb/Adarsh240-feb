@@ -4,7 +4,7 @@ Hello World , I am Adarsh Kesharwani a Web Developer is here on Github to build 
 
 • Name: Adarsh Kesharwani 
 
-• Hackathon's: #2X Finalist — Top 7 (Sharda), Top 10 (United
+• Hackathon's: #2X Finalist — Top 7 (Sharda University), Top 10 (United
 University).
 
 • Tech Community : Web Developer (Core Team) @ WikiClubTech-UIT, Volunteer @ 
