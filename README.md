@@ -10,7 +10,7 @@ University).
 • Tech Community : Web Developer (Core Team) @ WikiClubTech-UIT, Volunteer @ 
 GDG/TFUG Prayagraj.
 
-• Open Source Contributor: MediaWiki
+• Open Source Contributor: WikiMedia Ecosystem 
 
 • Current Status: I'm currently focusing on Full Stack Development.
 
