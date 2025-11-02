@@ -44,7 +44,7 @@ GDG/TFUG Prayagraj.
 |  Project |  Stack |  Highlights |  Demo |
 | :--- | :--- | :--- | :--- |
 | <a href="https://github.com/Adarsh240-feb/JalSaafTech" target="_blank" >  JalSaafTech </a> |  Html , CSS , JavaScript, Maps | Water Cleaniness Detection Device ,  Map Feature  | <a href="https://jalsaaftech.netlify.app" target="_blank"> Live  </a> |
-| <a href="https://github.com/Adarsh240-feb/Food" target="_blank" >  FlavourFlow </a> | React.js (Soon With Backend) | Fast Food Delivery , Highlight Protein in Food | <a href="https://adarsh240-feb.github.io/Food/" target="_blank"> Live  </a> |
+| <a href="https://github.com/Adarsh240-feb/FOODDEL" target="_blank" >  FlavourFlow </a> | React JS , Firebase | Fast Food Delivery , Highlight Macros in Food | <a href="https://flavourflow.vercel.app/" target="_blank"> Live  </a> |
 | <a href="https://github.com/Adarsh240-feb/WikiWebsite" target="_blank" >  WikiWebsite </a> | React.js , MongoDB , Express JS , Node JS , Firebase | Dynamic Contribution Leaderboard , Professional UI/UX , Community Level Website  | <a href="https://wikiclubtechuit.org/" target="_blank"> Live  </a> |
 
 
