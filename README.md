@@ -9,17 +9,17 @@
 ---
 
 ### ⚡ The Essentials
-• 🛠️ **Lead Architect:** Currently heading technical initiatives at **WikiClubTech-UIT**.
-• 🌍 **Open Source:** Active contributor within the **Wikimedia Ecosystem**.
-• 🏗️ **Current Focus:** Scaling real-world applications with the **MERN Stack**.
-• 📍 **Community:** Proud Volunteer at **GDG/TFUG Prayagraj**.
+* 🛠️ **Lead Architect:** Currently heading technical initiatives at **WikiClubTech-UIT**.
+* 🌍 **Open Source:** Active contributor within the **Wikimedia Ecosystem**.
+* 🏗️ **Current Focus:** Scaling real-world applications with the **MERN Stack**.
+* 📍 **Community:** Proud Volunteer at **GDG/TFUG Prayagraj**.
 
 ---
 
 ### 🏆 Milestones & Impact
-• 🏁 **Hackathon Finalist:** Secured **Top 7** (Sharda University) and **Top 10** (United University).
-• 🚀 **Lead Developer:** Built and launched the official **WikiClubTech-UIT** community platform.
-• 🔧 **Core Contributor:** Navigating the open-source landscape via **Gerrit & Phabricator**.
+* 🏁 **Hackathon Finalist:** Secured **Top 7** (Sharda University) and **Top 10** (United University).
+* 🚀 **Lead Developer:** Built and launched the official **WikiClubTech-UIT** community platform.
+* 🔧 **Core Contributor:** Navigating the open-source landscape via **Gerrit & Phabricator**.
 
 ---
 
@@ -42,11 +42,5 @@
 ---
 
 ### 📬 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/adarsh-kesharwani-bba666315/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/just_adarshhh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+* 💼 **LinkedIn:** [Adarsh Kesharwani](https://www.linkedin.com/in/adarsh-kesharwani-bba666315/)
+* 📸 **Instagram:** [@just_adarshhh](https://instagram.com/just_adarshhh)
