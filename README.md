@@ -11,7 +11,7 @@
 ### ⚡ The Essentials
 * 🛠️ **Lead Architect:** Currently heading technical initiatives at **WikiClubTech-UIT**.
 * 🌍 **Open Source:** Active contributor within the **Wikimedia Ecosystem**.
-* 🏗️ **Current Focus:** Scaling real-world applications with the **MERN Stack**.
+* 🏗️ **Current Focus:** Scaling real-world applications with the **Full-Stack Development**.
 * 📍 **Community:** Proud Volunteer at **GDG/TFUG Prayagraj**.
 
 ---
