@@ -14,8 +14,8 @@ I am a passionate Full-Stack Developer dedicated to building scalable real-world
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh240-feb&show_icons=true&theme=radical" alt="Adarsh's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh240-feb&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh240-feb&show_icons=true&theme=tokyonight" alt="Adarsh's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh240-feb&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
