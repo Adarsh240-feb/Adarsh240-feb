@@ -1,51 +1,49 @@
+# Hi there, I'm Adarsh Kesharwani 👋
+### Full-Stack Web Developer | Technical Lead @ WikiClubTech-UIT | Open Source Enthusiast
 
-## 🚀 About Me
-Hello World , I am Adarsh Kesharwani a Web Developer is here on Github to build some good real-world projects and contribute in some Good Projects here.
-
-• Name: Adarsh Kesharwani 
-
-• Hackathon's: #2X Finalist — Top 7 (Sharda University), Top 10 (United
-University).
-
-• Tech Community : Web Developer (Core Team) @ WikiClubTech-UIT, Volunteer @ 
-GDG/TFUG Prayagraj.
-
-• Open Source Contributor: WikiMedia Ecosystem 
-
-• Current Status: I'm currently focusing on Full Stack Development.
-
-
-### 🌐 Let's Connect!
+I am a passionate Full-Stack Developer dedicated to building scalable real-world applications and contributing to the open-source ecosystem. Currently, I lead technical initiatives at **WikiClubTech-UIT** and volunteer with **GDG/TFUG Prayagraj**.
 
 ---
-
-<div style="display: flex; gap: 15px; align-items: center;">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/adarsh-kesharwani-bba666315/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn" />
-  </a>
-    <!-- Instagram -->
-  <a href="https://instagram.com/just_adarshhh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
-  </a>
 
 ### 🛠️ My Tech Toolbox
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,firebase,js,html,css,git,php,mysql" />
+</p>
 
 ---
 
+### 📈 GitHub Stats
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,firebase" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh240-feb&show_icons=true&theme=radical" alt="Adarsh's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh240-feb&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
 
 ### 🚀 Featured Projects
 
+| Project | Stack | Highlights | Demo |
+| :--- | :--- | :--- | :--- |
+| **WikiWebsite** | MERN + Firebase | Technical Lead; Dynamic Leaderboard & Professional Community UI | [Live](https://wikiclubtechuit.org/) |
+| **UIT-MAP** | PHP + SQL | Virtualized project diaries for final-year institutional tracking | [Repo](#) |
+| **FlavourFlow** | React + Firebase | Food delivery app with macro-tracking features | [Live](https://flavourflow.vercel.app/) |
+| **JalSaafTech** | JS + Maps API | Water cleanliness detection with real-time mapping | [Live](https://jalsaaftech.netlify.app) |
+
 ---
 
-|  Project |  Stack |  Highlights |  Demo |
-| :--- | :--- | :--- | :--- |
-| <a href="https://github.com/Adarsh240-feb/JalSaafTech" target="_blank" >  JalSaafTech </a> |  Html , CSS , JavaScript, Maps | Water Cleaniness Detection Device ,  Map Feature  | <a href="https://jalsaaftech.netlify.app" target="_blank"> Live  </a> |
-| <a href="https://github.com/Adarsh240-feb/FOODDEL" target="_blank" >  FlavourFlow </a> | React JS , Firebase | Fast Food Delivery , Highlight Macros in Food | <a href="https://flavourflow.vercel.app/" target="_blank"> Live  </a> |
-| <a href="https://github.com/Adarsh240-feb/WikiWebsite" target="_blank" >  WikiWebsite </a> | React.js , MongoDB , Express JS , Node JS , Firebase | Dynamic Contribution Leaderboard , Professional UI/UX , Community Level Website  | <a href="https://wikiclubtechuit.org/" target="_blank"> Live  </a> |
+### 🤝 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/adarsh-kesharwani-bba666315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/just_adarshhh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
+---
 
-<br>
+### 🏆 Achievements & Contributions
+* **2X Hackathon Finalist:** Top 7 (Sharda University), Top 10 (United University).
+* **Wikimedia Ecosystem:** Active contributor via Gerrit & Phabricator.
+* **Community:** Technical Lead at WikiClub Tech-UIT and Volunteer at GDG/TFUG Prayagraj.
