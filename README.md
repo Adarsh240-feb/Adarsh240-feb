@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Web Developer • Technical Lead • Open Source Enthusiast</strong>
+  <strong>Full-Stack Web Developer • Technical Lead • Open Source Contributor</strong>
 </p>
 
 ---
