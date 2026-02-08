@@ -31,7 +31,7 @@
 | **[UIT-MAP](https://github.com/Adarsh240-feb/UIT-MAP)** | PHP + SQL | Virtualized project diary process for institutional use | [Live](https://uitmap.com/) |
 | **[FlavourFlow](https://github.com/Adarsh240-feb/FOODDEL)** | React + Firebase | Food delivery app with macro-nutrient tracking | [Live](https://flavourflow.vercel.app/) |
 | **[JalSaafTech](https://github.com/Adarsh240-feb/JalSaafTech)** | JS + Maps API | Water cleanliness detection device UI | [Live](https://jalsaaftech.netlify.app) |
-| **[UDAAAN-UGI](https://github.com/Adarsh240-feb/Udaan-UGI)** | React.js + Firebase RTDB | Real-time sports scoring, live updates, and dynamic data syncing. | [Live](https://udaan-ugi.vercel.app) |
+| **[UDAAN-UGI](https://github.com/Adarsh240-feb/Udaan-UGI)** | React.js + Firebase RTDB | Real-time sports scoring, live updates, and dynamic data syncing. | [Live](https://udaan-ugi.vercel.app) |
 
 ---
 
